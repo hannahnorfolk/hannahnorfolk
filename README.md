@@ -22,4 +22,4 @@
 
 #### Check out my blogs!
 
-[The Information Lab - Hannah Norfolk](https://www.thedataschool.co.uk/blog/?author=hannah-norfolk)
+[The Information Lab - Hannah Norfolk](https://www.thedataschool.co.uk/blog/hannah-norfolk/)
