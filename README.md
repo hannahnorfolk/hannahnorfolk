@@ -4,11 +4,8 @@
   
 <br> <h3>&nbsp;&nbsp; Welcome to my profile! </h3>
 <br>
-<br>
 
-<div align="left">
-  <p>  𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 </p>
-</div>
+---
 
 #### A bit about me:
 ★ Currently working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
@@ -16,9 +13,7 @@
 ★ Studied Biomedical Sciences at the University of Warwick <br/>
 ★ Based in London, UK <br/>
 
-<div align="left">
-  <p>  𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 </p>
-</div>
+---
 
 #### Check out my blogs!
 
